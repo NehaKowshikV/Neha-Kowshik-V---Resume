@@ -1,0 +1,50 @@
+.myheader{
+    background-color: black;
+    color: #d3cfd0;
+}
+
+#head_tag{
+    color: black;
+}
+
+.about{
+    background-color:black;
+    color: #d3cfd0;
+    margin-top: 20px;
+    padding: 20px;
+}
+.head_tag1{
+    color: white;
+}
+.education{
+    padding: 5px;
+    margin-top: 50px;
+    background-color: black;
+    color: #d3cfd0;
+}
+
+.education thead{
+    color: white;
+}
+.skills{
+    background-color: black;
+    margin-top: 50px;
+}
+.Internship{
+    background-color: black;
+    margin-top: 50px;
+    color: white;
+}
+.sbg
+{
+    background-color: white;
+    padding: 15px;
+}
+
+.footer{
+    background-color: black;
+    height: 100px;
+    padding: 10px;
+    color: #d3cfd0;
+    text-align: center;
+}
